@@ -1,2 +1,3 @@
-# mxnet-elastic-inference
-Sagemaker example of mxnet elastic inference
+# MXNet SSD on AWS Elastic Inference
+
+> Running this notebook may cost you by create Sagemaker Endpoint with EIA.

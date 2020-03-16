@@ -1,0 +1,5 @@
+sagemaker==1.51.3
+boto3==1.12.21
+mxnet==1.6.0
+mxnet-mkl==1.4.1
+gluoncv==0.6.0
